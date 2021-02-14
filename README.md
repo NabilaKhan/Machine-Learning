@@ -8,7 +8,7 @@ Submission Date: 1/31/2021
 
 * HomeWork 2: "Using Titanic dataset, guessing whether the individuals from the test
 dataset had survived or not"  
-Task: Predicting Survival 
-Additional Documents: Contains "Decision_tree_plot.png" along with the code
+Task: Predicting Survival  
+Additional Documents: Contains "Decision_tree_plot.png" along with the code  
 Submission Date: 2/14/2021
 
