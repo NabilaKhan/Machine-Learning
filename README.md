@@ -12,3 +12,6 @@ Task: Predicting Survival
 Additional Documents: Contains "Decision_tree_plot.png" along with the code  
 Submission Date: 2/14/2021
 
+* HomeWork 3: "Support Vector Machines (SVMs)"  
+Task: Working on SVM related problems 
+Submission Date: 2/28/2021
