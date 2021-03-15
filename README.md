@@ -18,5 +18,5 @@ Submission Date: 2/28/2021
 
 * HomeWork 4: "Unsupervise Learning (K-means)"  
 Task1: Working on football team dataset using K-means  
-Task2: Working on Iris dataset using K-means
+Task2: Working on Iris dataset using K-means  
 Submission Date: 3/14/2021
