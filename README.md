@@ -14,4 +14,9 @@ Submission Date: 2/14/2021
 
 * HomeWork 3: "Support Vector Machines (SVMs)"  
 Task: Working on SVM related problems  
-Submission Date: 2/28/2021
+Submission Date: 2/28/2021  
+
+* HomeWork 3: "Unsupervise Learning (K-means)"  
+Task1: Working on football team dataset using K-means  
+Task2: Working on Iris dataset using K-means
+Submission Date: 3/14/2021
