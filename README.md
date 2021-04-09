@@ -21,6 +21,6 @@ Task1: Working on football team dataset using K-means
 Task2: Working on Iris dataset using K-means  
 Submission Date: 3/14/2021
 
-* HomeWork 5: "Recommender System"  
+* HomeWork 5: "Machine Learning for Recommender Systems"  
 Task: Implementing movie recommender system  
 Submission Date: 4/9/2021
