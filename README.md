@@ -24,3 +24,7 @@ Submission Date: 3/14/2021
 * HomeWork 5: "Machine Learning for Recommender Systems"  
 Task: Implementing movie recommender system  
 Submission Date: 4/9/2021
+
+### Final Project:
+* Predicting Device Vulnerability via Machine Learning  
+Code: 
