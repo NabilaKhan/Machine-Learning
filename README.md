@@ -27,4 +27,5 @@ Submission Date: 4/9/2021
 
 ### Final Project:
 * Predicting Device Vulnerability via Machine Learning  
-Code: CAP_5610_Final_Project.ipynb
+Code: CAP_5610_Final_Project.ipynb/ CAP_5610_Final_Project_SuperLearner.ipynb  
+Report: Project_Report.pdf
