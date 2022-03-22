@@ -27,6 +27,6 @@ Submission Date: 4/9/2021
 
 ### Final Project:
 * Predicting Device Vulnerability via Machine Learning  
-Data Source: https://www.kaggle.com/c/microsoft-malware-prediction/overview![image](https://user-images.githubusercontent.com/36545135/159593916-fca7cab7-a6f6-40ca-bc12-11833f4c3ecd.png)  
+Data Source: https://www.kaggle.com/competitions/microsoft-malware-prediction/data  
 Code: CAP_5610_Final_Project.ipynb/ CAP_5610_Final_Project_SuperLearner.ipynb  
 Report: Project_Report.pdf
